@@ -1,0 +1,5 @@
+13. Volver a realizar la actividad 5 pero creando de forma dinámica (desde el
+código trasero) los botones correspondientes a los números del 1 al 9. Para poder
+asociar desde el código la fila y la columna que un control ocupa dentro de un Grid
+se utilizan los métodos estáticos Grid.SetRow y Grid.SetColumn respectivamente.
+Nombre del proyecto: CalculadoraDinamica
